@@ -4,7 +4,7 @@ Visit JLCPCB (https://jlcpcb.com/RAT)
 
 The article is being published in collaboration with JLCPCB. It is one of the most experienced PCB manufacturers with more than a decade in the field of PCB prototype and fabrication, they are committed to meeting the needs of our customers from different industries in terms of quality, delivery, cost-effectiveness and any other demanding requests.
 
-Ordering the PCBs From JLCPCB
+# Ordering the PCBs From JLCPCB
 Full Process is shown using Screenshots Step-wise.
 
 Now we have got the PCB design and it’s time to order the PCB’s. For that, you just have to go to JLCPCB, and click on “QUOTE NOW” button.
