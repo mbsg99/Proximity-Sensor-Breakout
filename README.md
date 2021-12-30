@@ -4,6 +4,19 @@ Visit JLCPCB (https://jlcpcb.com/RAT)
 
 The article is being published in collaboration with JLCPCB. It is one of the most experienced PCB manufacturers with more than a decade in the field of PCB prototype and fabrication, they are committed to meeting the needs of our customers from different industries in terms of quality, delivery, cost-effectiveness and any other demanding requests.
 
+# Introduction
+The Qwiic Proximity Sensor is a simple IR presence and ambient light sensor utilizing the VCNL4040. This sensor is excellent for detecting if something has appeared in front of the sensor; detecting objects qualitatively up to 20cm away. This means you can detect if something is there, and if it is closer or further away since the last reading, but it’s difficult to say it is 7.2cm away. If you need quantitative distance readings for exact distances, check out the SparkFun 2 meter and 4 meter Time of Flight (ToF) sensors with mm accuracy.
+
+# Features
+
+•	Qualitative Detection Range: 20cm
+•	Integrated Modules: Infrared Emitter (IRED), Ambient Light Sensor (ALS), Proximity Sensor (PS)
+•	Operates ALS and PS in Parallel Structure
+•	No Dead Zone
+•	Operating Voltage: 3.3V
+•	I2C Address: 0x60
+•	2x Qwiic Connectors
+
 # Ordering the PCBs From JLCPCB
 Full Process is shown using Screenshots Step-wise.
 
